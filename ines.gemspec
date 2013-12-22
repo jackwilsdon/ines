@@ -9,5 +9,5 @@ Gem::Specification.new do |gem|
   gem.email       = 'jack.wilsdon@gmail.com'
   gem.homepage    = 'http://github.com/jackwilsdon/ines'
 
-  gem.files       = ['lib/ines.rb', README]
+  gem.files       = ['lib/ines.rb', 'README.md']
 end
