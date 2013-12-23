@@ -1,4 +1,6 @@
-# iNES ROM format for Ruby #
+# iNES #
+[![Gem Version](https://badge.fury.io/rb/iNES.png)](http://badge.fury.io/rb/iNES)
+
 Manipulate iNES ROM files and extract trainer, PRG and CHR roms!
 
 ## Example usage ##
